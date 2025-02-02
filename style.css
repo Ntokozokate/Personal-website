@@ -779,7 +779,7 @@ form textarea {
   border-radius: o.5rem;
   border-radius: 0.5rem;
 }
-@media (min-width: 850px) {
+/*@media (min-width: 850px) {
   .containerr {
     padding-left: 200px;
     padding-right: 200px;
@@ -797,5 +797,27 @@ form textarea {
   .services-list {
     padding-left: 200px;
     padding-right: 200px;
+  }
+}*/
+@media (min-width: 850px) {
+  .containerr {
+    padding-left: 80px;
+  }
+  .container-wrapper {
+    padding-top: 50px;
+    padding-left: 100px;
+  }
+
+  .about {
+    padding-left: 80px;
+  }
+  .services-list {
+    padding-left: 80px;
+  }
+  .radial-bars {
+    margin-left: 120px;
+  }
+  .portfolio {
+    margin-left: 100px;
   }
 }
