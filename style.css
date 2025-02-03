@@ -779,6 +779,10 @@ form textarea {
   border-radius: o.5rem;
   border-radius: 0.5rem;
 }
+.mailto {
+  text-decoration: none;
+  color: #fff;
+}
 /*@media (min-width: 850px) {
   .containerr {
     padding-left: 200px;
@@ -815,7 +819,7 @@ form textarea {
     padding-left: 80px;
   }
   .radial-bars {
-    margin-left: 120px;
+    margin-left: 80px;
   }
   .portfolio {
     margin-left: 100px;
